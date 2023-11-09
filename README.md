@@ -1,3 +1,8 @@
+## Open in Colab For easy use        
+
+
+[![Colab](https://img.shields.io/badge/open-colab-blue.svg)](https://colab.research.google.com/github/victorgeel/knock/blob/master/Knock.ipynb)
+![License](https://img.shields.io/badge/license-MIT-green)
 # Knock Subdomain Scan v6.1.0
 
 Knockpy is a portable and modular python3 tool designed to quickly enumerate subdomains on a target domain through **passive reconnaissance** and **dictionary scan**.
